@@ -1,3 +1,4 @@
-cmake-build-debug
-pokercpp-env
+build
+venv
 .DS_Store
+conan_src
